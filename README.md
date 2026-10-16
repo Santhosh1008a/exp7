@@ -39,13 +39,13 @@ The screenshots below demonstrate the main discovery list and the destination de
 
 ### 1. Discovery List Screen
 
-![Atlas Discover list screen](Screenshot_20261016_121936.png)
+<img src="Screenshot_20261016_121936.png" alt="Atlas Discover list screen" width="500" />
 
 This screen is the main entry point of the application. It presents a scrollable `ListView` of curated travel destinations. Each destination is displayed in a custom card-style row with its image, category, title, location, rating, and a short description. Users can select any row to view more information.
 
 ### 2. Destination Details Screen
 
-![Atlas Discover destination details screen](Screenshot_20261016_122019.png)
+<img src="Screenshot_20261016_122019.png" alt="Atlas Discover destination details screen" width="500" />
 
 This screen shows the detailed view for a selected destination. It uses a large hero image followed by the destination name, category, rating, overview text, and travel-season information. The screen is opened from the list using an explicit `Intent`, and users can return to the discovery list with the back action.
 
