@@ -7,7 +7,7 @@
 
 ## 🎯 Aim
 
-To create an adaptive Android application implementing a genuine Android `ListView` and `ImageView` with a custom `BaseAdapter`, ViewHolder pattern, custom row layout, and explicit Intent navigation between screens.
+To create an adaptive Android application implementing a genuine Android `ListView` and `ImageView` with a custom `BaseAdapter`, ViewHolder pattern, custom row layout, and explicit Intent navigation.
 
 ---
 
@@ -37,17 +37,18 @@ To create an adaptive Android application implementing a genuine Android `ListVi
 
 The screenshots below demonstrate the main discovery list and the destination detail screen.
 
+<div align="center">
+  <img src="Screenshot_20261016_121936.png" alt="Atlas Discover list screen" width="380" />
+  <img src="Screenshot_20261016_122019.png" alt="Atlas Discover destination details screen" width="380" />
+</div>
+
 ### 1. Discovery List Screen
 
-<img src="Screenshot_20261016_121936.png" alt="Atlas Discover list screen" width="500" />
-
-This screen is the main entry point of the application. It presents a scrollable `ListView` of curated travel destinations. Each destination is displayed in a custom card-style row with its image, category, title, location, rating, and a short description. Users can select any row to view more information.
+This screen is the main entry point of the application. It presents a scrollable `ListView` of curated travel destinations. Each destination is displayed in a custom card-style row with its image, category, rating, location, title, and description.
 
 ### 2. Destination Details Screen
 
-<img src="Screenshot_20261016_122019.png" alt="Atlas Discover destination details screen" width="500" />
-
-This screen shows the detailed view for a selected destination. It uses a large hero image followed by the destination name, category, rating, overview text, and travel-season information. The screen is opened from the list using an explicit `Intent`, and users can return to the discovery list with the back action.
+This screen shows the detailed view for a selected destination. It uses a large hero image followed by the destination name, category, rating, overview text, and travel-season information. The screen supports both portrait and landscape layouts.
 
 ---
 
