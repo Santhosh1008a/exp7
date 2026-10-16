@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Atlas Discover 2026 Luxury Theme Colors -->
+    <color name="atlas_bg">#0A0F1D</color>
+    <color name="atlas_surface">#131C31</color>
+    <color name="atlas_surface_variant">#1E2D4A</color>
+    <color name="atlas_primary">#F59E0B</color>
+    <color name="atlas_primary_dark">#D97706</color>
+    <color name="atlas_on_primary">#0A0F1D</color>
+    <color name="atlas_text_primary">#F8FAFC</color>
+    <color name="atlas_text_secondary">#94A3B8</color>
+    <color name="atlas_accent">#38BDF8</color>
+    <color name="atlas_badge_bg">#1E2D4A</color>
+    <color name="atlas_stroke">#223454</color>
+    <color name="atlas_card_bg">#131C31</color>
+</resources>

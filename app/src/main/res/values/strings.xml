@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atlas Discover</string>
+    <string name="app_subtitle">Curated Wonders &amp; Discoveries</string>
+    <string name="header_title">Atlas Discover</string>
+    <string name="header_subtitle">Explore extraordinary destinations across the globe</string>
+    <string name="section_destinations">Featured Discoveries (9)</string>
+    <string name="detail_title">Discovery Overview</string>
+    <string name="label_location">Location:</string>
+    <string name="label_category">Category:</string>
+    <string name="label_rating">Rating:</string>
+    <string name="label_best_season">Best Season:</string>
+    <string name="label_overview">Overview &amp; Heritage</string>
+    <string name="action_explore">Explore Destination</string>
+    <string name="cd_thumbnail">Destination thumbnail image</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_star">Rating star</string>
+    <string name="cd_location">Location pin</string>
+</resources>
